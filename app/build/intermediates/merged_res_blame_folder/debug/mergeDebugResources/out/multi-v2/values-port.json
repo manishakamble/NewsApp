@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.newsapp-mergeDebugResources-76:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/manisha/.gradle/caches/8.10/transforms/30fe94073e3767394cb484aa980aab85/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

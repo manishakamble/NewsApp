@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_4.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_4.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_2_thumb.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_2_thumb.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_3.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_3.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable_icon_article_background.xml.flat",
+        "source": "com.newsapp-main-80:/drawable/icon_article_background.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable_ic_jetnews_wordmark.xml.flat",
+        "source": "com.newsapp-main-80:/drawable/ic_jetnews_wordmark.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_5.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_5.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_6_thumb.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_6_thumb.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-anydpi-v26_ic_launcher_background.xml.flat",
+        "source": "com.newsapp-main-80:/drawable-anydpi-v26/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_placeholder_1_1.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/placeholder_1_1.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "com.newsapp-main-80:/drawable-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_3_thumb.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_3_thumb.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_6.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_6.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_2.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_2.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_5_thumb.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_5_thumb.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable_ic_jetnews_bookmark_filled.xml.flat",
+        "source": "com.newsapp-main-80:/drawable/ic_jetnews_bookmark_filled.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_1.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_1.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable_ic_jetnews_logo.xml.flat",
+        "source": "com.newsapp-main-80:/drawable/ic_jetnews_logo.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable_ic_jetnews_bookmark.xml.flat",
+        "source": "com.newsapp-main-80:/drawable/ic_jetnews_bookmark.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable_ic_text_settings.xml.flat",
+        "source": "com.newsapp-main-80:/drawable/ic_text_settings.xml"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_placeholder_4_3.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/placeholder_4_3.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_4_thumb.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_4_thumb.png"
+    },
+    {
+        "merged": "com.newsapp-debug-78:/drawable-nodpi_post_1_thumb.png.flat",
+        "source": "com.newsapp-main-80:/drawable-nodpi/post_1_thumb.png"
+    }
+]
