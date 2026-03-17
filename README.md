@@ -199,8 +199,8 @@ Run tests:
 ## 📸 App Screens
 
 ```
+<img width="1080" height="2424" alt="Screenshot_20260317_232330" src="https://github.com/user-attachments/assets/db6b5b6e-ea9c-4121-a234-6a76d4983c2c" />
 
-<img width="1080" height="2424" alt="Screenshot_20260317_232330" src="https://github.com/user-attachments/assets/dd2fd8a8-3374-4e32-83ac-acb80c916304" />
 
 ```
 
